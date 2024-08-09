@@ -1,0 +1,6 @@
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/4.40.0/gradio.js"
+></script>
+
+<gradio-app src="https://dragunflie-420-screenshot-2-html.hf.space"></gradio-app>
